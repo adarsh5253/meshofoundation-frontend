@@ -1,3 +1,3 @@
-# Welcome to your NGO Web site
+# Welcome to your NGO Website
 
 TODO: Document your project here
